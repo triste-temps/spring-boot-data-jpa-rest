@@ -6,6 +6,6 @@ import com.myapp.cruddemo.entity.Employee;
 
 public interface EmployeeRespository extends JpaRepository<Employee, Integer> {
 	
-	// that's it ... no need to write any code
+	// that's it no need more code
 
 }
